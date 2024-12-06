@@ -40,19 +40,19 @@ export default function About() {
        >
          <div className="grid grid-cols-2 gap-4 h-full">
            <motion.img
-             src="/about1.jpg"
+             src="images/about1.jpg"
              alt="Proceso creativo"
              className="w-full h-64 object-cover rounded-lg"
              whileHover={{ scale: 1.05 }}
            />
            <motion.img
-             src="/about2.jpg"
+             src="images/about2.jpg"
              alt="Instalación BioArt"
              className="w-full h-64 object-cover rounded-lg mt-12"
              whileHover={{ scale: 1.05 }}
            />
            <motion.img
-             src="/about3.jpg"
+             src="images/about3.jpg"
              alt="Laboratorio creativo"
              className="w-full h-64 object-cover rounded-lg"
              whileHover={{ scale: 1.05 }}

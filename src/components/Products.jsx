@@ -6,19 +6,19 @@ export default function Products() {
    {
      title: "Arte Digital NFT",
      description: "Colecciones exclusivas certificadas en blockchain",
-     image: "/product1.jpg",
+     image: "images/product1.jpg",
      features: ["Certificación única", "Trazabilidad", "Edición limitada"]
    },
    {
      title: "Instalaciones Interactivas",
      description: "Experiencias inmersivas personalizadas",
-     image: "/product2.jpg",
+     image: "images/product2.jpg",
      features: ["Sensores biométricos", "Respuesta en tiempo real", "Adaptación al espacio"]
    },
    {
      title: "Bioesculturas",
      description: "Fusión de organismos vivos y tecnología",
-     image: "/product3.jpg",
+     image: "images/product3.jpg",
      features: ["Materiales orgánicos", "Sistemas autorregulables", "Monitoreo IoT"]
    }
  ];
