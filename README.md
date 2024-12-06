@@ -1,7 +1,55 @@
-```markdown
 # FusionBioArt - Web Inmersiva de Arte Digital
 
-[Continúa...]
+## 🎨 Descripción
+FusionBioArt es una plataforma web inmersiva que fusiona el arte digital con elementos biotecnológicos. El proyecto presenta una interfaz moderna y dinámica con animaciones fluidas y efectos visuales cautivadores.
+
+## ✨ Características
+- Diseño responsivo y adaptable
+- Animaciones con Framer Motion
+- Efectos visuales con Three.js
+- Interfaz de usuario con Tailwind CSS
+- Transiciones y efectos suaves
+- Optimización para dispositivos móviles
+
+## 🛠️ Tecnologías
+- React 18
+- Vite
+- Tailwind CSS
+- Framer Motion
+- Three.js
+- GSAP
+
+## 📦 Instalación
+
+1. Clona el repositorio
+```bash
+git clone https://github.com/FranJavacisco/fusion-bioart.git
+```
+
+2. Instala las dependencias
+```bash
+cd fusion-bioart
+npm install
+```
+
+3. Inicia el servidor de desarrollo
+```bash
+npm run dev
+```
+
+## 🚀 Despliegue
+Para desplegar en GitHub Pages:
+
+```bash
+npm run deploy
+```
+
+## 🎯 Scripts Disponibles
+- `npm run dev`: Inicia el servidor de desarrollo
+- `npm run build`: Compila el proyecto para producción
+- `npm run preview`: Vista previa de la compilación
+- `npm run deploy`: Despliega en GitHub Pages
+
 
 ## 🎨 Personalización
 El proyecto utiliza variables CSS para los colores principales y efectos. Puedes modificar estos valores en:
@@ -80,15 +128,11 @@ git push origin feature/AmazingFeature
 ## 📝 Licencia
 Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más información.
 
-## 👥 Equipo
-- Frontend Developer - [Tu Nombre]
-- Diseño UI/UX - [Nombre del Diseñador]
-- Animaciones - [Nombre del Animador]
 
 ## 📧 Contacto
-- Email: tuemail@ejemplo.com
-- GitHub: [@FranJavacisco](https://github.com/FranJavacisco)
-- Website: [tusitio.com](https://tusitio.com)
+- Email: panchodev2024@gmail.com
+- LinkedIn: [Francisco A. Lopez](https://www.linkedin.com/in/francisco-lopez-cl/)
+- Website: [franjavacisco.github.io/fusion-bioart](https://franjavacisco.github.io/fusion-bioart)
 
 ## 🙏 Agradecimientos
 - [Tailwind CSS](https://tailwindcss.com)
@@ -112,14 +156,3 @@ Para el desarrollo local, asegúrate de tener:
 ## 🐛 Reporte de Bugs
 Si encuentras algún bug, por favor abre un issue:
 [Crear Issue](https://github.com/FranJavacisco/fusion-bioart/issues)
-```
-
-Este README proporciona una documentación completa del proyecto, incluyendo:
-- Instalación y configuración
-- Estructura y componentes
-- Guías de contribución
-- Información de contacto
-- Roadmap futuro
-- Requisitos técnicos
-
-¿Necesitas que amplíe alguna sección en particular?
