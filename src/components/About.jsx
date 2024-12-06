@@ -62,7 +62,7 @@ export default function About() {
              whileHover={{ scale: 1.05 }}
            >
              <div className="text-center">
-               <h3 className="text-xl font-bold mb-2">+500</h3>
+               <h3 className="text-xl font-bold mb-2">+400</h3>
                <p>Obras Creadas</p>
              </div>
            </motion.div>
