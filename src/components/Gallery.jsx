@@ -6,37 +6,37 @@ export default function Gallery() {
    { 
      id: 1, 
      title: 'Nebulosa Digital',
-     image: '/obra1.jpg',
+     image: 'images/obra1.jpg',
      description: 'Fusión de elementos orgánicos y digitales'
    },
    { 
      id: 2, 
      title: 'Metamorfosis Cuántica',
-     image: '/obra2.jpg',
+     image: 'images/obra2.jpg',
      description: 'Transformación de patrones naturales' 
    },
    { 
      id: 3, 
      title: 'Sinergia Biológica',
-     image: '/obra3.jpg',
+     image: 'images/obra3.jpg',
      description: 'Interacción entre tecnología y naturaleza'
    },
    { 
     id: 4, 
     title: 'Horizonte Sintético',
-    image: '/obra4.jpg',
+    image: 'images/obra4.jpg',
     description: 'Una ventana al futuro donde la naturaleza y la tecnología crean un nuevo horizonte de posibilidades.'
   },
   { 
     id: 5, 
     title: 'Ecosistema Dinámico',
-    image: '/obra5.jpg',
+    image: 'images/obra5.jpg',
     description: 'Un sistema en constante cambio, que simula la coexistencia entre inteligencia artificial y procesos biológicos.'
   },
   { 
     id: 6, 
     title: 'Luz Biofluida',
-    image: '/obra6.jpg',
+    image: 'images/obra6.jpg',
     description: 'Explora cómo las luces líquidas pueden redefinir los límites entre lo físico y lo digital.'
   },
 

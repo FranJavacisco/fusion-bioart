@@ -52,7 +52,7 @@ export default function Footer() {
  className="absolute top-0 md:top-[10%] -translate-y-1/2 z-0 w-full"
 >
  <img 
-   src="/logo-footer.png"
+   src="icons/logo-footer.png"
    alt="Logo"
    className="w-96 h-96 md:w-[30vw] md:h-[30vw] object-contain opacity-20 hover:opacity-30 transition-opacity duration-300"
  />
