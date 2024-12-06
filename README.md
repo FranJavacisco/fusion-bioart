@@ -1,4 +1,5 @@
 # FusionBioArt - Web Inmersiva de Arte Digital
+![Captura de pantalla 2024-12-05 235112](https://github.com/user-attachments/assets/f56a150f-1664-4f96-9167-1043b864e970)
 
 ## 🎨 Descripción
 FusionBioArt es una plataforma web inmersiva que fusiona el arte digital con elementos biotecnológicos. El proyecto presenta una interfaz moderna y dinámica con animaciones fluidas y efectos visuales cautivadores.
